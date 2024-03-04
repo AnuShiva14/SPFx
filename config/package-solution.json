@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-helloworld-wp-sol-client-side-solution",
+    "id": "966e5937-a843-477f-ad24-641a179ba09c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SPFxHelloworldWPSol description"
+      },
+      "longDescription": {
+        "default": "SPFxHelloworldWPSol description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-fx-helloworld-wp-sol Feature",
+        "description": "The feature that activates elements of the sp-fx-helloworld-wp-sol solution.",
+        "id": "a8c867b7-05a6-432b-b4d7-60a6ca052e45",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-helloworld-wp-sol.sppkg"
+  }
+}

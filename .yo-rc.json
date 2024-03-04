@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "sp-fx-helloworld-wp-sol",
+    "libraryId": "966e5937-a843-477f-ad24-641a179ba09c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFxHelloworldWPSol",
+    "solutionShortDescription": "SPFxHelloworldWPSol description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
